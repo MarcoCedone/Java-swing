@@ -18,6 +18,7 @@ public class App {
         // TODO code application logic here
     
         System.out.println("java swing esempio");
+        System.out.println("seconda modifica");
     
     }
     
